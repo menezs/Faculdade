@@ -1,0 +1,3 @@
+
+
+int fatMax(int n);
